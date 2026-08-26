@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include<string.h>
-//isme menu loop use karna jaroori hai kyuki jo dukaan wala hoga wo multiple users ka input daalega par konsa loop so ek baar to chalna hi chahiye so we will use do while loop
+//Menu loop allows the shopkeeper to perform multiple operations
 struct transaction{
     char medicine[30];
     int amount;
